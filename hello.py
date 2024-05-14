@@ -1,1 +1,1 @@
-print('hello.c')
+print('hello')
